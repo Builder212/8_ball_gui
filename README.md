@@ -1,2 +1,2 @@
 # 8_ball_gui
-An 8 Ball gui.
+An 8 Ball gui. Enjoy. :)
