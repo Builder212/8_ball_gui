@@ -1,2 +1,2 @@
-# 8_ball_gui
+# eight_ball
 An 8 Ball gui. Enjoy. :)
